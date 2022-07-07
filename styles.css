@@ -1,0 +1,127 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  position: relative;
+  background-color: rgb(81, 81, 81);
+  width: auto;
+  height: 300px;
+}
+
+.imgg {
+  width: 120px;
+  border-radius: 80px;
+  border-style: dotted;
+  border-color: rgb(255, 196, 0);
+  border-width: 5px;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  top: 15px;
+}
+
+.hbar {
+  height: 25px;
+  background-color: rgb(255, 196, 0);
+  top: 50px;
+  position: relative;
+}
+
+.hbar1 {
+  max-height: 70px;
+  background-color: rgb(255, 196, 0);
+  position: relative;
+  top: 2px;
+}
+
+.hbar1 > p {
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.name {
+  height: 70px;
+  background-color: rgb(255, 196, 0);
+  width: 300px;
+  font-style: bold;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: -25px;
+  margin: auto;
+}
+
+.name > h3 {
+  font-size: 25px;
+  padding-top: 22px;
+}
+.leftside {
+  background-color: rgb(253, 255, 255);
+  width: 49.7%;
+  height: auto;
+  float: left;
+
+  border-right: 2px solid;
+  border-color: rgb(137, 136, 136);
+}
+.container {
+  padding: 15px 15px;
+}
+.ptitle {
+  font-size: 20px;
+}
+.psummary {
+  text-indent: 70px !important;
+  text-align: justify;
+}
+
+.wtitle {
+  font-size: 20px;
+}
+
+.exptitle {
+  list-style: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.exptitle1 {
+  list-style: none;
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+.expperiod {
+  list-style: none;
+  font-size: 14px;
+  font-weight: bold;
+  opacity: 0.6;
+}
+
+.list {
+  list-style-type: square;
+  font-size: 16px;
+}
+.psummary {
+  font-size: 18px;
+}
+
+.rightside {
+  background-color: rgb(255, 255, 255);
+  width: 50%;
+  height: 500px;
+  float: right;
+}
+
+.ptitle1 {
+  list-style: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+.aboutproject {
+  text-indent: 70px;
+  text-align: justify;
+}
