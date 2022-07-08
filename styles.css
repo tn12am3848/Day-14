@@ -60,11 +60,11 @@
 }
 .leftside {
   background-color: rgb(253, 255, 255);
-  width: 49.7%;
+  width: 49.6%;
   height: auto;
   float: left;
 
-  border-right: 2px solid;
+  border-right: 1px solid;
   border-color: rgb(137, 136, 136);
 }
 .container {
